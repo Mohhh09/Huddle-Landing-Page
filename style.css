@@ -1,3 +1,9 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}
 .top-card{
     /* border: 1px solid blue; */
     background-color: hsl(193, 100%, 96%);
@@ -7,4 +13,8 @@
 .trial{
     background-color: white;
     border-radius: 20px;
+}
+.row-cards{
+    border: 2px silid blue ;
+    gap: 10px;
 }
