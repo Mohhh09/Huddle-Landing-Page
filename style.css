@@ -1,0 +1,10 @@
+.top-card{
+    /* border: 1px solid blue; */
+    background-color: hsl(193, 100%, 96%);
+    background-image: url(./img/images/bg-hero-desktop.svg);
+}
+
+.trial{
+    background-color: white;
+    border-radius: 20px;
+}
